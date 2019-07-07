@@ -15,6 +15,9 @@ div {
 #orange { /* this selects any elements with the orange id */
   border-top-color: #ffa500;
 }
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
 #green { /* this selects any elements with the green id */
   border-top-color: #f00;
 }
@@ -24,9 +27,7 @@ div {
 #indigo { /* this selects any elements with the indigo id */
   border-top-color: #f00;
 }
-#red { /* this selects any elements with the red id */
-  border-top-color: #f00;
-}
+
 #red { /* this selects any elements with the red id */
   border-top-color: #f00;
 }
